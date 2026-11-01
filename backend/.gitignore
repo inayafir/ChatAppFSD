@@ -1,0 +1,14 @@
+target/
+*.class
+*.log
+
+# H2 database files created at runtime
+data/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project

@@ -1,0 +1,17 @@
+# Dependencies / build output
+backend/target/
+frontend/node_modules/
+frontend/dist/
+
+# Runtime database (H2 files)
+backend/data/
+
+# Logs
+*.log
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
